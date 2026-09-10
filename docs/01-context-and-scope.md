@@ -1,6 +1,6 @@
 # Business context and ISMS scope
 
-Document CTX-01 Â· Version 1.0 Â· 7 September 2026 Â· Owner: CEO role Â· Educational simulation
+Document CTX-01 Version 1.0 7 September 2026 Owner: CEO role Educational simulation
 
 ## Business and operating model
 
