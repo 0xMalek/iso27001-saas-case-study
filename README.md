@@ -50,6 +50,18 @@ Start with the executive report, then inspect the risk decisions and access-revi
 The [Excel workbook](registers/isms-registers.xlsx), CSV exports and narrative counts were built from [one source dataset](registers/source-data.json). The [register guide](registers/README.md) explains inputs, formulas and refresh limits. The baseline date is 1 September 2026; the report date is 7 September 2026. All dates describe the scenario except the recorded artifact verification date.
 
 
+## Why I built this
+
+I built this case study to practise connecting business needs to risk decisions, control choices and evidence. I wanted to show how I approach GRC work: explain why a risk matters, propose a proportionate response, and distinguish a planned improvement from a verified result.
+
+The access review brought that distinction into focus. Correcting three fictional records demonstrates the review method, but it does not establish that an offboarding process works consistently. That would require broader evidence over time.
+
+## What I would do differently in a real engagement
+
+- **Validate the assumptions with people and records.** Confirm the scope, information flows, obligations and recovery needs with business and technical owners before relying on the ratings or roadmap.
+- **Test actual operation.** Reconcile personnel records with system access, verify that removed permissions no longer work, and examine further departures and role changes across multiple review cycles. For backups, assess observed restore results against agreed recovery needs.
+- **Make decisions with accountable owners.** Check feasibility, cost and dependencies before committing to treatments. Document remaining risk and obtain the appropriate owner's decision; a proposed target score would remain an estimate until evidence supports reassessment.
+
 ## Scope and limitations
 
 The assessment and roadmap are planning artifacts. The access review verifies changes in fictional records; it does not demonstrate sustained effectiveness in a live environment. The [coverage map](docs/08-coverage-and-gaps.md) identifies management-system work outside this case study.
