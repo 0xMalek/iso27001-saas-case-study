@@ -1,0 +1,12 @@
+{
+  "algorithm": "SHA-256",
+  "purpose": "Integrity of synthetic release files; not authentication of real events",
+  "files": {
+    "access-after.csv": "9383e8d419122532e57db25bcae18969bf1b6347716b56f16c6d6861de650eae",
+    "access-before.csv": "2d1de46942d38d70dd20d62aed9053e63d90c604769ee80244bfa488493caa7f",
+    "approvals.csv": "fb2e87962b33055cc5a48e2f8ba73c4a2e9703bbf4351d9a5f527f56f5f88326",
+    "corrective-actions.csv": "f16109e5b17febff36775d3121fd2c0fe96885121617f18b4ea2d4c9ded80e15",
+    "people.csv": "da0ade86c536706ed760babb2bef04f1c36e36a2b4871c2d4abbdc55803a6ee1",
+    "review-decisions.csv": "6c9335969107bd24464a591add81a667e52b35b4725b51fd7bc4830aee9794d0"
+  }
+}

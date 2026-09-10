@@ -1,0 +1,10 @@
+.build/
+__pycache__/
+*.tmp
+~$*
+.DS_Store
+private-cv/
+outputs/word/
+learning/PROGRESS.md
+learning/progress.json
+learning/checkpoints.md

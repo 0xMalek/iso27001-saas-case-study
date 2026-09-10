@@ -1,0 +1,28 @@
+approval_id,person_id,system,approved_role,approved_by,valid_from,valid_until,business_reason
+AP001,E001,SourceHub,Developer,Head of Engineering,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP002,E002,SourceHub,Developer,Head of Engineering,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP003,E003,SourceHub,Developer,Head of Engineering,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP004,E004,SourceHub,Developer,Head of Engineering,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP005,E005,SourceHub,Developer,Head of Engineering,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP006,E006,SourceHub,Developer,Head of Engineering,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP007,E007,SourceHub,Developer,Head of Engineering,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP008,E008,SourceHub,Developer,Head of Engineering,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP009,E009,SourceHub,Developer,Head of Engineering,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP010,E010,SourceHub,Developer,Head of Engineering,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP011,E011,CloudConsole,Administrator,CEO,2026-08-01,2026-12-31,Designated production administrator with independent CEO approval.
+AP012,E012,CloudConsole,Operator,Platform Lead,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP013,E013,CloudConsole,Viewer,Platform Lead,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP014,E011,SourceHub,Developer,CEO,2026-08-01,2026-12-31,Designated production administrator with independent CEO approval.
+AP015,E012,SourceHub,Developer,Platform Lead,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP016,E013,SourceHub,Developer,Platform Lead,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP017,E014,SupportDesk,Agent,Head of Support,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP018,E015,SupportDesk,Agent,Head of Support,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP019,E016,SupportDesk,Agent,Head of Support,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP020,E017,SupportDesk,Agent,Head of Support,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP021,E018,SupportDesk,Agent,Head of Support,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP022,E019,SupportDesk,Agent,Head of Support,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP023,E020,SupportDesk,Viewer,Sales Lead,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP024,E021,SupportDesk,Viewer,Sales Lead,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP025,E022,SupportDesk,Viewer,Sales Lead,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP026,E025,SupportDesk,Viewer,CEO,2026-08-01,2026-12-31,Role-specific access agreed by the fictional manager.
+AP027,E026,SupportDesk,Agent,Head of Support,2026-08-01,2026-08-31,Role-specific access agreed by the fictional manager.

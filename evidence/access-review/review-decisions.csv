@@ -1,0 +1,28 @@
+review_id,access_id,person_id,system,issue,decision,rationale,action_id,reviewer,review_date,followup_result,followup_date
+REV-01,AR001,E001,SourceHub,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR002,E002,SourceHub,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR003,E003,SourceHub,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR004,E004,SourceHub,Unjustified administrator,Downgrade,Only Developer was approved; Administrator has no justification.,CA02,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR005,E005,SourceHub,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR006,E006,SourceHub,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR007,E007,SourceHub,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR008,E008,SourceHub,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR009,E009,SourceHub,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR010,E010,SourceHub,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR011,E011,CloudConsole,None,Retain,Active employee; observed role matches valid independent approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR012,E012,CloudConsole,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR013,E013,CloudConsole,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR014,E011,SourceHub,None,Retain,Active employee; observed role matches valid independent approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR015,E012,SourceHub,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR016,E013,SourceHub,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR017,E014,SupportDesk,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR018,E015,SupportDesk,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR019,E016,SupportDesk,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR020,E017,SupportDesk,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR021,E018,SupportDesk,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR022,E019,SupportDesk,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR023,E020,SupportDesk,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR024,E021,SupportDesk,Role mismatch,Downgrade,"Sales role approval permits Viewer, not Agent.",CA03,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR025,E022,SupportDesk,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR026,E025,SupportDesk,None,Retain,Active employee; observed role matches current manager approval.,,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03
+REV-01,AR027,E026,SupportDesk,Departed user active,Disable,Employment ended and approval expired on 31 August.,CA01,GRC Reviewer (simulated),2026-09-01,Confirmed in revised synthetic snapshot,2026-09-03

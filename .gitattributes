@@ -1,0 +1,7 @@
+*.md text eol=lf
+# Preserve CSV bytes so published evidence hashes match the source snapshots.
+*.csv -text
+*.json text eol=lf
+*.svg text eol=lf
+*.pdf binary
+*.xlsx binary

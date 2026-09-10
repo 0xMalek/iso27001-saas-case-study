@@ -1,0 +1,11 @@
+asset_id,asset,owner,classification,location,security_needs,business_significance
+A01,Customer ticket database,Head of Support,Restricted,Managed cloud database,C/I/A,"Ticket text, attachments and contact details drive customer service; exposure crosses customer boundaries."
+A02,Support application,Head of Engineering,Confidential,Cloud application service,C/I/A,The application enforces tenant access and presents customer tickets to authorized users.
+A03,Production cloud environment,Platform Lead,Restricted,Cloud provider account,I/A,"Cloud configuration, networking and runtime permissions control the service availability and security."
+A04,Identity and entitlement records,Platform Lead,Restricted,Identity service and system access lists,C/I,"Identities, group membership and approvals determine who can access company information."
+A05,Source repositories and build pipeline,Head of Engineering,Confidential,Source-hosting supplier,I/A,Code and release workflows determine the integrity of software shipped to customers.
+A06,Service credentials and signing secrets,Platform Lead,Restricted,Secrets store and build environment,C/I,Credential theft could permit production access or unauthorized releases.
+A07,Database backups,Platform Lead,Restricted,Cloud backup storage,C/I/A,Backups contain customer information and are needed to recover service after loss or corruption.
+A08,Employee laptops,People and Operations Lead,Confidential,Employee home workspaces,C/I,Devices hold work sessions and limited local information and can become an entry point.
+A09,People and commercial records,People and Operations Lead,Restricted,Business document service,C/I,"Employment records, agreements and customer commitments require controlled handling."
+A10,Public marketing website,Sales Lead,Public,Separate website host,I/A,"A static brochure site supports inbound sales; it holds no logins, tickets, payment data or lead forms."

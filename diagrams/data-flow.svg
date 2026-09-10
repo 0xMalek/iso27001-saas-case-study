@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="790" viewBox="0 0 1200 790">
+<rect width="1200" height="790" fill="#FFFFFF"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#577082"/></marker></defs>
+<text x="40" y="55" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#142B42">CaseCo Cloud / information and administrative flows</text>
+<text x="40" y="90" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#577082">Fictional architecture. Supplier services support CaseCo-owned information, access and configuration decisions.</text>
+<polyline points="245,165 355,165" fill="none" stroke="#577082" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="600,165 700,165" fill="none" stroke="#577082" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="920,165 960,165" fill="none" stroke="#577082" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="245,350 355,350" fill="none" stroke="#577082" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="477,310 477,205" fill="none" stroke="#577082" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="600,350 700,350" fill="none" stroke="#577082" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="810,310 810,247 630,247 630,188 600,188" fill="none" stroke="#577082" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="477,390 477,490" fill="none" stroke="#577082" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="600,530 810,530 810,390" fill="none" stroke="#577082" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="960,350 920,350" fill="none" stroke="#577082" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="143,390 143,490" fill="none" stroke="#577082" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="40" y="125" width="205" height="80" rx="7" fill="#E8F0F6" stroke="#D5DEE6"/>
+<text x="53" y="157" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#142B42">Customer users</text>
+<text x="53" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#577082">External customer boundary</text>
+<rect x="355" y="125" width="245" height="80" rx="7" fill="#E8F0F6" stroke="#D5DEE6"/>
+<text x="368" y="157" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#142B42">A02 Support application</text>
+<text x="368" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#577082">Tickets and attachments</text>
+<rect x="700" y="125" width="220" height="80" rx="7" fill="#E8F0F6" stroke="#D5DEE6"/>
+<text x="713" y="157" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#142B42">A01 Ticket database</text>
+<text x="713" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#577082">Customer records</text>
+<rect x="960" y="125" width="205" height="80" rx="7" fill="#E8F0F6" stroke="#D5DEE6"/>
+<text x="973" y="157" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#142B42">A07 Backups</text>
+<text x="973" y="185" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#577082">Recovery copies</text>
+<rect x="40" y="310" width="205" height="80" rx="7" fill="#E8F0F6" stroke="#D5DEE6"/>
+<text x="53" y="342" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#142B42">A08 Staff laptops</text>
+<text x="53" y="370" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#577082">Remote workspaces</text>
+<rect x="355" y="310" width="245" height="80" rx="7" fill="#E8F0F6" stroke="#D5DEE6"/>
+<text x="368" y="342" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#142B42">A04 Identity and access</text>
+<text x="368" y="370" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#577082">Approved human permissions</text>
+<rect x="700" y="310" width="220" height="80" rx="7" fill="#E8F0F6" stroke="#D5DEE6"/>
+<text x="713" y="342" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#142B42">A03 Production cloud</text>
+<text x="713" y="370" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#577082">Runtime and configuration</text>
+<rect x="960" y="310" width="205" height="80" rx="7" fill="#E8F0F6" stroke="#D5DEE6"/>
+<text x="973" y="342" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#142B42">A06 Service secrets</text>
+<text x="973" y="370" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#577082">Service authentication</text>
+<rect x="355" y="490" width="245" height="80" rx="7" fill="#E8F0F6" stroke="#D5DEE6"/>
+<text x="368" y="522" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#142B42">A05 Source and builds</text>
+<text x="368" y="550" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#577082">Reviewed release path</text>
+<rect x="40" y="490" width="260" height="80" rx="7" fill="#E8F0F6" stroke="#D5DEE6"/>
+<text x="53" y="522" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#142B42">A09 Business records</text>
+<text x="53" y="550" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#577082">People and commercial files</text>
+<rect x="700" y="630" width="465" height="70" rx="7" fill="#F0F3F6" stroke="#D5DEE6"/>
+<text x="713" y="662" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#142B42">A10 Public marketing website</text>
+<text x="713" y="690" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#577082">Separate public content; no customer login</text>
+<text x="40" y="676" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#577082">Public visitors reach the brochure site separately.</text>
+<text x="40" y="743" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#577082">Scope includes supplier interfaces and remote work. Arrows do not prove tested technical safeguards.</text>
+<text x="40" y="768" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#577082">Educational simulation / CTX-01 / Version 1.0</text>
+</svg>
