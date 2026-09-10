@@ -1,6 +1,6 @@
 # Business context and ISMS scope
 
-Document CTX-01 · Version 1.0 · 7 September 2026 · Owner: CEO role · Educational simulation
+Document CTX-01 Â· Version 1.0 Â· 7 September 2026 Â· Owner: CEO role Â· Educational simulation
 
 ## Business and operating model
 
@@ -46,7 +46,7 @@ An opportunity is to reuse reviewed security evidence in customer questionnaires
 
 ## Information flow
 
-See the [diagram](../diagrams/data-flow.svg) and [editable Mermaid source](../diagrams/data-flow.md). Customers reach the application, which accesses the ticket database. The database feeds backups. Staff authenticate and receive role-based access to the application, cloud console and code platform. Approved code travels through the build/release path into production. People and contractual records have a separate document-service boundary.
+See the [diagram](../diagrams/data-flow.png) and [editable flow descriptions](../diagrams/data-flow.md). Customers reach the application, which accesses the ticket database. The database feeds backups. Staff authenticate and receive role-based access to the application, cloud console and code platform. Approved code travels through the build/release path into production. People and contractual records have a separate document-service boundary.
 
 ## Review trigger
 

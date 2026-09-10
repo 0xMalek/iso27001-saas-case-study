@@ -2,7 +2,7 @@
 
 These registers describe CaseCo Cloud, a fictional business. The assessment baseline is 1 September 2026. Scores are case-study judgments, not observed incident frequencies.
 
-- [Excel workbook](../outputs/portfolio/isms-registers.xlsx): editable inputs, calculated risk bands and linked summary.
+- [Excel workbook](isms-registers.xlsx): editable inputs, calculated risk bands and linked summary.
 - [Assets](assets.csv): 10 information and technology assets.
 - [Risks](risks.csv): 12 risks with current ratings, rationales and conditional target ratings.
 - [Treatments](treatments.csv): a decision, owner, target date and evidence requirement for every risk.

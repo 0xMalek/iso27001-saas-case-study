@@ -8,3 +8,10 @@ outputs/word/
 learning/PROGRESS.md
 learning/progress.json
 learning/checkpoints.md
+
+# Private preparation and superseded export locations
+learning/
+portfolio/
+output/
+outputs/
+diagrams/data-flow.svg

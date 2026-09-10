@@ -4,17 +4,17 @@
 
 CaseCo Cloud is a **fictional 25-person B2B support-software company** preparing to answer enterprise customers' security questions. This project connects business needs to information security risks, proposed controls, and a completed access-review exercise using synthetic records.
 
-**10 assets · 12 risks · 21 selected controls · 27 access assignments reviewed · 3 sample corrections**
+**10 assets Â· 12 risks Â· 21 selected controls Â· 27 access assignments reviewed Â· 3 sample corrections**
 
 The work demonstrates implementation planning and evidence evaluation. It is an educational simulation, not a certified ISMS, a real client engagement, or evidence of sustained control effectiveness. Control descriptions are original summaries; the Statement of Applicability is an extract.
 
 ## Start here
 
-For a guided walkthrough, follow the [learning path](learning/START-HERE.md).
+Start with the executive report, then inspect the risk decisions and access-review evidence.
 
 | Time | Read | What to look for |
 | --- | --- | --- |
-| 2 minutes | [Executive report](output/pdf/executive-report.pdf) | Business priorities, remaining risk and management decisions |
+| 2 minutes | [Executive report](reports/executive-report.pdf) | Business priorities, remaining risk and management decisions |
 | 5 minutes | [Business scope](docs/01-context-and-scope.md) and [risk method](docs/03-risk-methodology.md) | Why the assessment covers these services and how ratings are justified |
 | 10 minutes | [Registers](registers/README.md) and [control decisions](docs/05-control-selection.md) | Owners, treatments, estimated targets and supporting evidence |
 | 10 minutes | [Access review](evidence/access-review/README.md) | Original records, decisions, corrections and follow-up |
@@ -25,7 +25,7 @@ For a guided walkthrough, follow the [learning path](learning/START-HERE.md).
 
 **Asset:** A04, identity and entitlement records, controls access to A01, customer ticket data.
 
-**Risk:** R01 describes a departed employee retaining access. Its baseline rating is 4 × 4 = 16, High, based on a missed leaver record and the impact of ticket exposure.
+**Risk:** R01 describes a departed employee retaining access. Its baseline rating is 4 Ã— 4 = 16, High, based on a missed leaver record and the impact of ticket exposure.
 
 **Treatment:** T01 proposes leaver reconciliation, recorded revocation, and repeat-cycle testing. The Head of Support owns it, due 2026-09-21.
 
@@ -35,24 +35,21 @@ For a guided walkthrough, follow the [learning path](learning/START-HERE.md).
 
 ## Explore the project
 
-![Fictional company information and administrative flows](diagrams/data-flow.svg)
+![Fictional company information and administrative flows](diagrams/data-flow.png)
 
 - [Governance and objectives](docs/02-governance.md)
 - [Assessment and treatment decisions](docs/04-assessment-and-treatment.md)
 - [90-day roadmap](docs/07-roadmap.md)
 - [Management-system coverage and gaps](docs/08-coverage-and-gaps.md)
-- [Data flow](diagrams/data-flow.svg)
-- [Guided learning path](learning/START-HERE.md) and [interview rehearsal](learning/interview-rehearsal.md)
-- [CV entry](portfolio/cv-entry.md), [LinkedIn post](portfolio/linkedin-post.md), and [carousel](output/pdf/linkedin-carousel.pdf)
+- [Data flow](diagrams/data-flow.png)
 - [References and verification limits](references/README.md)
 - [Release verification](docs/09-quality-review.md)
 
-## Working files and release
+## Editable registers
 
-The [Excel workbook](outputs/portfolio/isms-registers.xlsx), CSV exports and narrative counts were built from [one source dataset](registers/source-data.json). The [register guide](registers/README.md) explains inputs, formulas and refresh limits. The baseline date is 1 September 2026; the report date is 7 September 2026. All dates describe the scenario except the recorded artifact verification date.
+The [Excel workbook](registers/isms-registers.xlsx), CSV exports and narrative counts were built from [one source dataset](registers/source-data.json). The [register guide](registers/README.md) explains inputs, formulas and refresh limits. The baseline date is 1 September 2026; the report date is 7 September 2026. All dates describe the scenario except the recorded artifact verification date.
 
-Repository: [0xMalek/iso27001-saas-case-study](https://github.com/0xMalek/iso27001-saas-case-study). This repository contains the case-study documentation and downloadable artifacts; it does not require an application or a website. [Publication notes](portfolio/publication-notes.md) describe the release and remaining career-material steps.
 
-## What comes next
+## Scope and limitations
 
-Project 2 can use this case to practice audit planning, evidence sampling and corrective-action follow-up. Project 3 can apply the learning to a separate consulting scenario. Those are future projects; this release does not claim that they are complete.
+The assessment and roadmap are planning artifacts. The access review verifies changes in fictional records; it does not demonstrate sustained effectiveness in a live environment. The [coverage map](docs/08-coverage-and-gaps.md) identifies management-system work outside this case study.
