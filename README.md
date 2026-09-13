@@ -4,7 +4,7 @@
 
 CaseCo Cloud is a **fictional 25-person B2B support-software company** preparing to answer enterprise customers' security questions. This project connects business needs to information security risks, proposed controls, and a completed access-review exercise using synthetic records.
 
-**10 assets Â· 12 risks · 21 selected controls · 27 access assignments reviewed · 3 sample corrections**
+**10 assets · 12 risks · 21 selected controls · 27 access assignments reviewed · 3 sample corrections**
 
 The work demonstrates implementation planning and evidence evaluation. It is an educational simulation, not a certified ISMS, a real client engagement, or evidence of sustained control effectiveness. Control descriptions are original summaries; the Statement of Applicability is an extract.
 
