@@ -25,7 +25,7 @@ Start with the executive report, then inspect the risk decisions and access-revi
 
 **Asset:** A04, identity and entitlement records, controls access to A01, customer ticket data.
 
-**Risk:** R01 describes a departed employee retaining access. Its baseline rating is 4 Ã— 4 = 16, High, based on a missed leaver record and the impact of ticket exposure.
+**Risk:** R01 describes a departed employee retaining access. Its baseline rating is 4 * 4 = 16, High, based on a missed leaver record and the impact of ticket exposure.
 
 **Treatment:** T01 proposes leaver reconciliation, recorded revocation, and repeat-cycle testing. The Head of Support owns it, due 2026-09-21.
 
